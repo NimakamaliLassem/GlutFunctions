@@ -1,4 +1,7 @@
 # GlutFunctions
+## Tools
+- VS Community 2019 - OpenGL Glut Library- C
+- HOW TO USE GLUT IN VS 2019: https://www.youtube.com/watch?v=XOtY4yzitdk
 ## Info
 Basics of Glut Library used in a simple game called "Traffic Jam"
 
